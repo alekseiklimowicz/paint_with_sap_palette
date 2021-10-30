@@ -3,7 +3,7 @@
 
 # Paint with SAP Brand palette
 
-This project allows you to paint colored **jpg** pictures with SAP Brand palette:
+This funny project allows you to paint colored **jpg** pictures with SAP Brand palette:
 
 https://www.sapbrandtools.com/color-palette/#palette-details
 
