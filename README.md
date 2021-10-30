@@ -1,6 +1,4 @@
 
-![result](https://user-images.githubusercontent.com/92862270/139554753-b2448a3b-6455-4a26-8427-b3de6f1d8c5f.jpg)
-
 # Paint with SAP Brand palette
 
 This funny project allows you to paint colored **jpg** pictures with SAP Brand palette:
