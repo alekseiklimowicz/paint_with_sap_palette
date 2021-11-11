@@ -2,12 +2,12 @@
 
 # Paint with SAP palette
 
-This funny project allows you to paint colored **jpg** pictures with SAP palette:
-
-https://www.sapbrandtools.com/color-palette/#palette-details
+This funny project allows you to paint colored **jpg** pictures with SAP palette.
 
 ## Color metric:
 https://www.compuphase.com/cmetric.htm
 
 ## How to run
 Run the file _paint_in_sap_brand_colors.ipynb_ with your Jupyter Notebook
+
+img = Image.open("<your_file_name>.jpg")
